@@ -76,7 +76,6 @@ if (num % 2 === 0){
 
 const idade = Number(prompt("Idade:"));
 
-
  if (idade === 18) {
    console.log("Tem exatamente 18 anos");
  } else {
